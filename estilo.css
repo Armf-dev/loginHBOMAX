@@ -1,3 +1,41 @@
+header{
+    margin-top: 55px;
+    text-align: justify;
+    display: flex;
+    margin-left: 94px;
+    flex-direction: column;  
+}
 body{
     font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;   
 }
+img{
+    width: 329px;
+}
+
+main{
+    height: 100px;
+}
+.button1{
+    width: 130px;
+    align-items: center;
+    margin-top: 10px;
+    text-align: center; 
+}
+.button2{
+    width: 300px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    margin-top: 15px;
+    margin-left: 94px;
+    line-height: 30px;
+}
+
+
+
